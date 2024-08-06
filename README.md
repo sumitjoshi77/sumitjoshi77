@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sumitjoshi77.github.io/sumitjoshi.giyhub.io/](https://sumitjoshi77.github.io/sumitjoshi.giyhub.io/)
 
-- 💬 Ask me about **Pandas, Matplotlib, Seaborn, Power BI, Tableau, SQL**
+- 💬 Ask me about **Pandas, Matplotlib, Seaborn, Power BI, Tableau, SQL, Excel**
 
 - 📫 How to reach me **ssumit.joshi613@gmail.com**
 
